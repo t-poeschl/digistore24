@@ -6,8 +6,6 @@ Die Rechte liegen bei der Digistore24 GmbH.
 
 ## Composer
 
-https://packagist.org/packages/t-poeschl/digistore24
-
 ```
 composer require t-poeschl/digistore24
 ```
